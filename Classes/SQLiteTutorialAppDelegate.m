@@ -108,6 +108,7 @@
     
     // test4 jakub
     // test 5 jakub - pokus o commit z Xcode
+    // konfliktni zmena
     NSString *stringURL = @"http://www.somewhere.com/thefile.png";
     NSURL  *url = [NSURL URLWithString:stringURL];
     NSData *urlData = [NSData dataWithContentsOfURL:url];
