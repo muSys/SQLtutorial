@@ -103,6 +103,7 @@
 
 -(void) checkForUpdates {
     //test
+    //test2
     NSString *stringURL = @"http://www.somewhere.com/thefile.png";
     NSURL  *url = [NSURL URLWithString:stringURL];
     NSData *urlData = [NSData dataWithContentsOfURL:url];
